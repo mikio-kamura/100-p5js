@@ -1,11 +1,11 @@
-let tileWidth;
-let tileNum = 10;
+let tileWidth = 80;
+// let tileNum = 10;
 let r;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
-  tileWidth = width / tileNum;
+  // tileWidth = width / tileNum;
 }
 
 function draw() {
